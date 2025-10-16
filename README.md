@@ -1,5 +1,5 @@
 # FBDatabase Archive
-This is where you can information on everything published created for FB Database.
+Asset library for the FBDatabase
 
 ## Showcase 
 ### Week 7 Power Rankings for American Conference
